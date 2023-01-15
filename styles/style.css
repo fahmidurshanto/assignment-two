@@ -305,4 +305,7 @@ main section 2 styles
         margin-bottom: 30px;
         margin-left: 100px;
     }
+    .features, .main-header-button, .features-title, .main-section, .main-body-description{
+        margin-left: 10px;
+    }
 }
